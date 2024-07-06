@@ -8,5 +8,15 @@ This project is a clone of the Amazon website, designed to showcase my frontend 
 - **Footer**: Contains links to various pages and social media icons.
 
 ## Technologies Used
--**HTML**: For the structure and content of the website.
--**CSS**: For styling and layout of the website.
+- **HTML**: For the structure and content of the website.
+- **CSS**: For styling and layout of the website.
+
+## Setup
+- Clone the repository.
+git clone (repository link).
+- Open the project folder
+(cd Amazon-clone)
+- Open index.html
+(open index.html)
+## Credits
+This project was developed by Annika Kumar.
